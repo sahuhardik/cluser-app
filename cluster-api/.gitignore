@@ -1,0 +1,35 @@
+# Dependencies
+node_modules
+build
+
+# AdonisJS build files
+build/
+public/
+.tmp/
+
+# Environment variables
+.env
+.env.testing
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+
+# Test coverage
+coverage/
+
+# Miscellaneous
+*.log
+*.lock
+*.sqlite
