@@ -84,11 +84,12 @@ This project consists of a backend built with AdonisJS and a frontend built with
 ## Screenshots
 
 ### Performance Metrics Page
-![Performance Metrics](./screenshots/Screenshot 2024-10-23 at 1.10.11 AM.png)
-![Performance Metrics](./screenshots/Screenshot 2024-10-23 at 1.10.19 AM.png)
+![Alt text](screenshots/pf1.png?raw=true "Title")
+![Alt text](screenshots/pf2.png?raw=true "Title")
+
 
 ### Snapshot Policy Page
-![Snapshot Policy](./screenshots/Screenshot 2024-10-23 at 1.09.53 AM.png)
+![Alt text](screenshots/form.png?raw=true "Title")
 
 ## Important Points
 
